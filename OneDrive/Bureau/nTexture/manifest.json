@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§2§lnTexture Néphelia V9",
+        "name": "§2§lnTexture Néphelia V9",
+        "uuid": "c26190c6-108d-4dae-b40f-9304fdb8ca02",
+        "version": [0, 9, 3],
+		"min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+        {
+            "description": "§2§lnTexture Néphelia V9",
+            "type": "resources",
+            "uuid": "03cc859e-f2b1-4fb6-b04a-25a2cd79d8ba",
+            "version": [ 0, 0, 1 ]
+        }
+    ]
+}

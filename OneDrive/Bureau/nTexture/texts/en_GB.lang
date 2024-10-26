@@ -1,0 +1,83 @@
+[Armures]
+
+
+
+
+item.wooden_sword.name=Kit Diamant 
+
+item.stone_sword.name=Kit Mithril 
+
+
+item.golden_sword.name=Kit Adamantite 
+
+item.iron_sword.name=Kit Luminite
+
+item.netherite_sword.name=Item Koth 
+
+[Minerais]
+
+item.gold_nugget.name=Pépite de §aMithril
+item.gold_ingot.name=Lingot de §aMithril
+tile.gold_block.name=Bloc de §aMithril
+item.iron_nugget.name=Pépite d'§dAdamantite
+item.iron_ingot.name=Lingot d'§dAdamantite
+tile.iron_block.name=Bloc d'§dAdamantite 
+
+[Sticks]
+item.sugar.name=Bâton de §sVitesse
+item.flint.name=Bâton de §dRégénération
+item.magma_cream.name=Bâton de §4Force
+item.rabbit_hide.name=Bâton de §2Saut
+item.nether_star.name=Bâton de §1Vision
+
+
+tile.trapped_chest.name=Coffre de Farm
+tile.red_nether_brick.name=Xp Bush
+item.egg.name=Egg Trap
+tile.warped_fence_gate.name=Portillon renforcé
+
+[Items effects]
+
+item.fermented_spider_eye.name=SeedPlanter §bTier 1
+item.blaze_powder.name=SeedPlanter §dTier 2
+item.shears.name=§8Pied de §cBiche
+item.netherite_pickaxe.name=Pioche en §aChlorophylle
+item.slime_ball.name=§eSoupe
+item.snowball.name=§cSwitchBall
+item.end_stone.name=§9Bloc AntiPearl
+item.trapped_chest.name=§bFarming §rChest
+item.netherbrick.name=§eBâton de vente
+tile.nether_brick.name=§0Bloc AntiPearl
+item.brick.name=Lingot de §8Luminite
+item.nether_wart.name=Graine de §8Luminite
+item.ghast_tear.name=§6Topaze
+tile.sponge_wet.name=§aBuisson à XP remplit
+tile.sponge.dry.name=§cBloc Anti-Perle
+tile.sponge.name=§aBuisson à XP vide
+tile.sea_lantern.name=§0Ascenseur
+tile.soul_sand.name=§nTerre Enrichie
+item.prismarine_crystals.name=§aStick en Mithril
+item.prismarine_shard.name=§dStick en Adamantite
+item.phantom_membrane.name=§eMob Coin
+item.diamond_hoe.name=Houe en §dAdamantite
+item.iron_hoe.name=Houe en §aMithril
+item.diamond_pickaxe.name=Pioche en §dAdamantite
+item.iron_pickaxe.name=Pioche en §aMithril
+item.diamond_shovel.name=Pelle en §dAdamantite
+item.iron_shovel.name=Pelle en §aMithril
+item.diamond_axe.name=Hache en §dAdamantite
+item.iron_axe.name=Hache en §aMithril
+tile.acaciaFence.name=Portillon §cRenforcé
+
+[Enchantements]
+
+enchantment.level.1=§c1
+enchantment.level.2=§c2
+enchantment.level.3=§c3
+enchantment.level.4=§c4
+enchantment.level.5=§c5
+enchantment.level.6=§c6
+enchantment.level.7=§c7
+enchantment.level.8=§c8
+enchantment.level.9=§c9
+enchantment.level.10=§c10

@@ -1,0 +1,337 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "harvester": {
+      "textures": "textures/items/harvester"
+    },
+    "freeze" : {
+      "textures" : "textures/items/freeze"
+    },
+    "cage" : {
+      "textures" : "textures/items/cage"
+    },
+    "charm" : {
+      "textures" : "textures/items/charm"
+    },
+    "item" : {
+      "textures" : "textures/items/item"
+    },
+    "5k" : {
+      "textures" : "textures/items/5k"
+    },
+    "20k" : {
+      "textures" : "textures/items/20k"
+    },
+    "100k" : {
+      "textures" : "textures/items/100k"
+    },
+    "500k" : {
+      "textures" : "textures/items/500k"
+    },
+    "1m" : {
+      "textures" : "textures/items/1m"
+    },
+    "casque_yttrium": {
+      "textures": "textures/items/casque_yttrium"
+    },
+    "plastron_yttrium": {
+      "textures": "textures/items/plastron_yttrium"
+    },
+    "pantalon_yttrium": {
+      "textures": "textures/items/pantalon_yttrium"
+    },
+    "botte_yttrium": {
+      "textures": "textures/items/botte_yttrium"
+    },
+    "casque_mithril": {
+      "textures": "textures/items/casque_mithril"
+    },
+    "plastron_mithril": {
+      "textures": "textures/items/plastron_mithril"
+    },
+    "pantalon_mithril": {
+      "textures": "textures/items/pantalon_mithril"
+    },
+    "botte_mithril": {
+      "textures": "textures/items/botte_mithril"
+    },
+    "casque_adamantite": {
+      "textures": "textures/items/casque_adamantite"
+    },
+    "plastron_adamantite": {
+      "textures": "textures/items/plastron_adamantite"
+    },
+    "pantalon_adamantite": {
+      "textures": "textures/items/pantalon_adamantite"
+    },
+    "botte_adamantite": {
+      "textures": "textures/items/botte_adamantite"
+    },
+    "casque_nepheline": {
+      "textures": "textures/items/casque_luminite"
+    },
+    "plastron_nepheline": {
+      "textures": "textures/items/plastron_luminite"
+    },
+    "pantalon_nepheline": {
+      "textures": "textures/items/pantalon_luminite"
+    },
+    "botte_nepheline": {
+      "textures": "textures/items/botte_luminite"
+    },
+    "casque_diamant": {
+      "textures": "textures/items/casque_diamant"
+    },
+    "plastron_diamant": {
+      "textures": "textures/items/plastron_diamant"
+    },
+    "pantalon_diamant": {
+      "textures": "textures/items/pantalon_diamant"
+    },
+    "botte_diamant": {
+      "textures": "textures/items/botte_diamant"
+    },
+    "epee_diamant": {
+      "textures": "textures/items/epee_diamant"
+    },
+    "epee_yttrium": {
+      "textures": "textures/items/epee_yttrium"
+    },
+    "epee_adamantite": {
+      "textures": "textures/items/epee_adamantite"
+    },
+    "epee_nepheline": {
+      "textures": "textures/items/epee_luminite"
+    },
+    "pioche_custom": {
+      "textures": "textures/items/netherite_pickaxe"
+    },
+    "frag_ble": {
+      "textures": "textures/items/frag_ble"
+    },
+    "frag_carotte": {
+      "textures": "textures/items/frag_carotte"
+    },
+    "frag_patate": {
+      "textures": "textures/items/frag_patate"
+    },
+    "frag_canne": {
+      "textures": "textures/items/frag_canne"
+    },
+    "frag_bettrave": {
+      "textures": "textures/items/frag_bettrave"
+    },
+    "frag_melon": {
+      "textures": "textures/items/frag_melon"
+    },
+    "frag_citrouille": {
+      "textures": "textures/items/frag_citrouille"
+    },
+    "joyaux_ble": {
+      "textures": "textures/items/joyaux_ble"
+    },
+    "joyaux_carotte": {
+      "textures": "textures/items/joyaux_carotte"
+    },
+    "joyaux_patate": {
+      "textures": "textures/items/joyaux_patate"
+    },
+    "joyaux_canne": {
+      "textures": "textures/items/joyaux_canne"
+    },
+    "joyaux_bettrave": {
+      "textures": "textures/items/joyaux_bettrave"
+    },
+    "joyaux_melon": {
+      "textures": "textures/items/joyaux_melon"
+    },
+    "joyaux_citrouille": {
+      "textures": "textures/items/joyaux_citrouille"
+    },
+    "key_mithril":{
+      "textures": "textures/items/key_mithril"
+    },
+    "key_adamantite":{
+      "textures": "textures/items/key_adamantite"
+    },
+    "key_luminite":{
+      "textures": "textures/items/key_luminite"
+    },
+    "key_quete":{
+      "textures": "textures/items/quete"
+    },
+    "key_diamant":{
+      "textures": "textures/items/key_diamant"
+    },
+    "amulette_solaire":{
+      "textures": "textures/items/amulette_solaire"
+    },
+    "amulette_glace":{
+      "textures": "textures/items/amulette_glace"
+    },
+    "pioche1":{
+      "textures": "textures/items/pioche1"
+    },
+    "pioche2":{
+      "textures": "textures/items/pioche2"
+    },
+    "pioche3":{
+      "textures": "textures/items/pioche3"
+    },
+    "pioche4":{
+      "textures": "textures/items/pioche4"
+    },
+    "pioche5":{
+      "textures": "textures/items/pioche5"
+    },
+    "pioche6":{
+      "textures": "textures/items/pioche6"
+    },
+    "pioche7":{
+      "textures": "textures/items/pioche7"
+    },
+    "pioche8":{
+      "textures": "textures/items/pioche8"
+    },
+    "pioche9":{
+      "textures": "textures/items/pioche9"
+    },
+    "pioche10":{
+      "textures": "textures/items/pioche10"
+    },
+    "citrouille":{
+      "textures": "textures/items/citrouille"
+    },
+    "antipearl":{
+      "textures": "textures/items/antipearl"
+    },
+    "berry":{
+      "textures": "textures/items/berry"
+    },
+    "vente":{
+      "textures": "textures/items/vente"
+    },
+    "effroi":{
+      "textures": "textures/items/effroi"
+    },
+    "vision":{
+      "textures": "textures/items/vision"
+    },
+    "puissance":{
+      "textures": "textures/items/puissance"
+    },
+    "complete":{
+      "textures": "textures/items/complete"
+    },
+    "purifier":{
+      "textures": "textures/items/purifier"
+    },
+    "pepite_adamantite":{
+      "textures": "textures/items/pepite_adamantite"
+    },
+    "pepite_luminite":{
+      "textures": "textures/items/pepite_luminite"
+    },
+    "pepite_yttrium":{
+      "textures": "textures/items/pepite_yttrium"
+    },
+    "pepite_mithril":{
+      "textures": "textures/items/pepite_mithril"
+    },
+    "lingot_adamantite":{
+      "textures": "textures/items/lingot_adamantite"
+    },
+    "lingot_luminite":{
+      "textures": "textures/items/lingot_luminite"
+    },
+    "lingot_yttrium":{
+      "textures": "textures/items/lingot_yttrium"
+    },
+    "lingot_mithril":{
+      "textures": "textures/items/lingot_mithril"
+    },
+    "pied_de_biche":{
+      "textures": "textures/items/pied_de_biche"
+    },
+    "saut":{
+      "textures": "textures/items/saut"
+    },
+    "vitesse":{
+      "textures": "textures/items/vitesse"
+    },
+    "force":{
+      "textures": "textures/items/force"
+    },
+    "regen":{
+      "textures": "textures/items/regen"
+    },
+    "multitool":{
+      "textures": "textures/items/multitool"
+    },
+    "kit_diamant":{
+      "textures": "textures/items/kit_diamant"
+    },
+    "kit_yttrium":{
+      "textures": "textures/items/kit_yttrium"
+    },
+    "kit_adamantite":{
+      "textures": "textures/items/kit_adamantite"
+    },
+    "kit_luminite":{
+      "textures": "textures/items/kit_luminite"
+    },
+    "action":{
+      "textures": "textures/items/action"
+    },
+    "effect":{
+      "textures": "textures/items/effect"
+    },
+    "epee_evo":{
+      "textures": "textures/items/epee_evo"
+    },
+    "pomme_yttrium":{
+      "textures": "textures/items/pomme_yttrium"
+    },
+    "pomme_adamantite":{
+      "textures": "textures/items/pomme_adamantite"
+    },
+    "pomme_luminite":{
+      "textures": "textures/items/pomme_luminite"
+    },
+    "eclair":{
+      "textures": "textures/items/eclair"
+    },
+    "reparation":{
+      "textures": "textures/items/reparation"
+    },
+    "faux_mithril":{
+      "textures": "textures/items/faux"
+    },
+    "sac_farm":{
+      "textures": "textures/items/sac_farm"
+    },
+    "sac_mineur":{
+      "textures": "textures/items/sac_mineur"
+    },
+    "bloc_yttrium":{
+      "textures": "textures/items/bloc_yttrium"
+    },
+    "bloc_adamantite":{
+      "textures": "textures/items/bloc_adamantite"
+    },
+    "bloc_mithril":{
+      "textures": "textures/items/bloc_mithril"
+    },
+    "bloc_luminite":{
+      "textures": "textures/items/bloc_luminite"
+    },
+    "creeper_charge":{
+      "textures": "textures/items/creeper_charge"
+    },
+    "topaze":{
+      "textures": "textures/items/topaze"
+    }
+
+  }
+}
